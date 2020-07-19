@@ -1,3 +1,3 @@
 # test2
 
-gregrtghrtyghrthrtd
+Это репозиторий где я осваиваю основные модули Python)
